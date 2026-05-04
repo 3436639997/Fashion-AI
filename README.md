@@ -332,4 +332,5 @@ numpy>=1.24.0
 
 ## 特别感谢
 
-linux.do社区佬友支持：  https://linux.do
+linux.do社区佬友支持：  https://linux.do ，
+感谢 佬友 trader 提供 api支持

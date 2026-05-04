@@ -23,7 +23,7 @@
   2. python main.py setup — 建库 + 编码 + 入库
   3. python main.py search --new-id NEW001 — 测试检索
   4. python main.py generate --new-id NEW001 — 完整生图流水线
-  
+
 
 ### 为什么用混合检索（Dense + Sparse + Scalar）？
 
@@ -328,3 +328,8 @@ tqdm>=4.65.0
 python-dotenv>=1.0.0
 numpy>=1.24.0
 ```
+
+
+## 特别感谢
+
+linux.do社区佬友支持：  https://linux.do

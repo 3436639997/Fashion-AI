@@ -16,6 +16,14 @@
 项目灵感来源于教程：Nano Banana2+ Milvus+ qwen3.5，打造电商生图爆款流水线
 文章参考来源：https://mp.weixin.qq.com/s/itMVbtZDW0IzIBhp6e9OHw
 
+### 推广赞助：从素材生成到投放测试
+这个项目解决的是「新品宣传图生成」问题。  
+如果你生成素材后准备拿去 TikTok Ads / TikTok Shop 测试，可以顺手看一下：
+**TikTok Offers Hub**  
+https://ttoh.app
+收集 TikTok 的广告优惠券，适合跨境卖家、TikTok Shop 商户和投手。
+
+
 ### 为什么用向量数据库？
 
 电商最核心的资产是大量经过市场验证的爆款图。模特表现力、场景构图、光影质感，都是花钱试出来的。与其每次从零写 prompt，不如直接从历史爆款中检索最相似的视觉特征，让 AI 继承"爆款基因"。这正是 Milvus 混合检索发挥作用的地方。
